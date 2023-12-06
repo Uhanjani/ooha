@@ -1,0 +1,271 @@
+<html>
+    <body><h2>Srinivasa Ramanujan made numerous contributions to the field of infinite series and continued fractions, often providing elegant and rapidly converging formulas. Here are some aspects of his work in these areas:
+
+        1. Ramanujan's Formula for π (pi):
+        Ramanujan derived several infinite series for the mathematical constant π. One of his most famous results is his formula for π in terms of an infinite series:
+        
+        1
+        �
+        =
+        2
+        2
+        2
+        2
+        +
+        2
+        +
+        2
+        ⋅
+        2
+        2
+        +
+        2
+        +
+        2
+        2
+        2
+        +
+        2
+        +
+        2
+        +
+        2
+        ⋅
+        2
+        2
+        +
+        2
+        +
+        2
+        +
+        2
+        2
+        2
+        +
+        2
+        +
+        2
+        +
+        2
+        +
+        2
+        ⋅
+        …
+        π
+        1
+        ​
+         = 
+        2 
+        2
+        ​
+         + 
+        2+ 
+        2
+        ​
+         
+        ​
+         
+        2 
+        2
+        ​
+         
+        ​
+         ⋅ 
+        2 
+        2
+        ​
+         + 
+        2+ 
+        2+ 
+        2
+        ​
+         
+        ​
+         
+        ​
+         
+        2 
+        2+ 
+        2+ 
+        2
+        ​
+         
+        ​
+         
+        ​
+         
+        ​
+         ⋅ 
+        2 
+        2
+        ​
+         + 
+        2+ 
+        2+ 
+        2+ 
+        2
+        ​
+         
+        ​
+         
+        ​
+         
+        ​
+         
+        2 
+        2+ 
+        2+ 
+        2+ 
+        2
+        ​
+         
+        ​
+         
+        ​
+         
+        ​
+         
+        ​
+         ⋅…
+        
+        This infinite product converges rapidly, providing an efficient way to approximate the value of π.
+        
+        2. Ramanujan's Master Theorem:
+        Ramanujan developed a master theorem for rapidly converging infinite series. One notable instance is his formula for the reciprocal of the number 
+        �
+        e (the base of the natural logarithm):
+        
+        1
+        �
+        =
+        1
+        −
+        1
+        1
+        ⋅
+        1
+        !
+        +
+        1
+        2
+        ⋅
+        2
+        !
+        −
+        1
+        3
+        ⋅
+        3
+        !
+        +
+        1
+        4
+        ⋅
+        4
+        !
+        −
+        …
+        e
+        1
+        ​
+         =1− 
+        1⋅1!
+        1
+        ​
+         + 
+        2⋅2!
+        1
+        ​
+         − 
+        3⋅3!
+        1
+        ​
+         + 
+        4⋅4!
+        1
+        ​
+         −…
+        
+        This series converges remarkably quickly, making it useful for practical calculations.
+        
+        3. Ramanujan's Continued Fraction for 
+        �
+        e:
+        Ramanujan discovered an elegant continued fraction representation for the number 
+        �
+        e:
+        
+        �
+        =
+        1
+        +
+        1
+        1
+        +
+        1
+        2
+        +
+        1
+        1
+        +
+        1
+        1
+        +
+        1
+        4
+        +
+        1
+        1
+        +
+        1
+        1
+        +
+        1
+        6
+        +
+        ⋱
+        e=1+ 
+        1+ 
+        2+ 
+        1+ 
+        1+ 
+        4+ 
+        1+ 
+        1+ 
+        6+⋱
+        1
+        ​
+         
+        1
+        ​
+         
+        1
+        ​
+         
+        1
+        ​
+         
+        1
+        ​
+         
+        1
+        ​
+         
+        1
+        ​
+         
+        1
+        ​
+         
+        
+        This continued fraction converges rapidly and provides an alternative expression for 
+        �
+        e.
+        
+        4. Ramanujan's Theta Functions:
+        Ramanujan introduced theta functions, which are special functions used in the theory of modular forms. His work on theta functions included various infinite series and continued fractions representations. These functions have applications in diverse areas of mathematics, including number theory and analysis.
+        
+        5. Ramanujan's Modular Equations:
+        Ramanujan derived modular equations connecting elliptic integrals and modular forms. These equations often involve infinite series and continued fractions, and they play a crucial role in the study of elliptic functions and modular forms.
+        
+        Ramanujan's work in infinite series and continued fractions was characterized by its elegance and efficiency, providing mathematicians with new tools and insights into the nature of these mathematical structures. His contributions in these areas continue to be influential and are studied by mathematicians worldwide.</h2></body></html>
